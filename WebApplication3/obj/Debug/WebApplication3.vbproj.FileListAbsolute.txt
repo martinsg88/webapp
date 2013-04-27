@@ -1,0 +1,10 @@
+C:\Users\371\Desktop\103am\WebApplication3\bin\WebApplication3.dll
+C:\Users\371\Desktop\103am\WebApplication3\bin\WebApplication3.pdb
+C:\Users\371\Desktop\103am\WebApplication3\bin\WebApplication3.xml
+C:\Users\371\Desktop\103am\WebApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\371\Desktop\103am\WebApplication3\obj\Debug\WebApplication3.Resources.resources
+C:\Users\371\Desktop\103am\WebApplication3\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\371\Desktop\103am\WebApplication3\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\371\Desktop\103am\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\371\Desktop\103am\WebApplication3\obj\Debug\WebApplication3.xml
+C:\Users\371\Desktop\103am\WebApplication3\obj\Debug\WebApplication3.pdb
